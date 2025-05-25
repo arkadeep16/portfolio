@@ -1,0 +1,22 @@
+[
+  {
+    "role": "Web Designer",
+    "organisation": "Jevy.nl",
+    "startDate": "Sept, 2021",
+    "endDate": "May,2022",
+    "experiences": ["Developed responsive landing pages", "mobile-friendly, visually appealing web designs"],
+    "imageSrc": "history/jevy.png"
+  },
+
+  {
+    "role": "UX Designer",
+    "organisation": "Jevy.nl",
+    "startDate": "Apr, 2023",
+    "endDate": "Jun, 2024",
+    "experiences": [
+      "Designed engaging social media banners and marketing materials",
+      "boost brand visibility and engagement"
+    ],
+    "imageSrc": "history/jevy.png"
+  }
+]

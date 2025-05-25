@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Movie App",
+    "imageSrc": "projects/project.png",
+    "description": "A React movie app that lets users search and view movie details using API data, React Router, Hooks, and dynamic rendering.",
+    "skills": ["React", "HTML", "CSS"],
+    "demo": "https://venerable-froyo-92c316.netlify.app/",
+    "source": "https://github.com/arkadeep16/movie_app"
+  },
+  {
+    "title": "Loruki",
+    "imageSrc": "projects/loruki.png",
+    "description": "A simple static mutipsges site using HTML5, CSS3 flexbox and grid system, Bootstarp and it’s full responsive.",
+    "skills": ["HTML", "CSS", "Flexbox", "Grid"],
+    "demo": "https://vocal-caramel-af1625.netlify.app/",
+    "source": "https://github.com/arkadeep16/loruki-main"
+  },
+  {
+    "title": "GoogleSheet Clone",
+    "imageSrc": "projects/googlesheet.png",
+    "description": "A Google Sheets clone with cell selection, including font, size, alignment, color, and styling options.",
+    "skills": ["javaScript", "HTML", "CSS"],
+    "demo": "https://arkadeep16.github.io/googleSheet_clone/",
+    "source": "https://github.com/arkadeep16/googleSheet_clone"
+  }
+]
